@@ -26,10 +26,10 @@ Python
 
 ## Flowchart  
  <p>
-<img align="center" src="https://drive.google.com/uc?export=view&id=1riHeht2ysGpinXsLrpwUgVhjVLUWPSN_" alt="Flowchart" width="500" />
+<img align="center" src="https://drive.google.com/uc?export=view&id=1HSBQg16NOdHpPno4YLl5RC9ieMpIdUd_" alt="Flowchart" width="900" />
 </p>
 
-## Fungsi 
+## Class & Fungsi 
 1.  Class: Transaction
     - Dibuat suatu class yang diberi nama Transaction yang digunakan sebagai  wadah untuk menghimpun data dan fungsi yang kemudian menghasilkan objek.
 2.  Method: __init__
@@ -64,7 +64,7 @@ Nama Item: Pasta Gigi, Qty: 3, Harga: 15000
 *Output:*
 
  <p>
-<img align="center" src="https://drive.google.com/uc?export=view&id=1_Eubf51Qyqm0_vGhe6EN27upFZAS5lFR" alt="Flowchart" width="500" />
+<img align="center" src="https://drive.google.com/uc?export=view&id=1GWDEiTctU4RqYE9yIvrFtbP5xG9IDVdV" alt="Flowchart" width="500" />
 </p>
 
 
@@ -75,7 +75,7 @@ Ternyata Customer salah membeli salah satu item dari belanjaan yang sudah ditamb
 **Output**
 
 <p>
-<img align="center" src="https://drive.google.com/uc?export=view&id=1f7YdK4ZajYDxV0n_lHCQEVF_Ttyt2mns" alt="Flowchart" width="500" />
+<img align="center" src="https://drive.google.com/uc?export=view&id=1vXcRD350wNDB9TRSG3edLN1opF_diyBW" alt="Flowchart" width="500" />
 </p>
 
 ### Test 3
@@ -87,7 +87,7 @@ Daripada menghapusnya satu - satu, maka Customer cukup menggunakan method reset 
 **Output**
 
 <p>
-<img align="center" src="https://drive.google.com/uc?export=view&id=13ApxAuZCT3gcQJwRdoTvkbh0o-0-vq5I" alt="Flowchart" width="500" />
+<img align="center" src="https://drive.google.com/uc?export=view&id=1yeNmSw8RB5FMm71m2PKdEOxbq7KAUIP_" alt="Flowchart" width="500" />
 </p>
 
 
@@ -98,7 +98,7 @@ Setelah Customer selesai berbelanja, akan menghitung total belanja yang harus di
 **Output**
 
 <p>
-<img align="center" src="https://drive.google.com/uc?export=view&id=13_ftpoI7irBgr_m-L_pbWQItxSYSN05z" alt="Flowchart" width="500" />
+<img align="center" src="https://drive.google.com/uc?export=view&id=1Q6MSJEn4aK4yBthSRDszpaAvIRv9lm4P" alt="Flowchart" width="500" />
 </p>
 
 

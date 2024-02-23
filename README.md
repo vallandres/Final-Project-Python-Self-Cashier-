@@ -15,7 +15,7 @@ Python
 
 ## Requirements 
 - Membuat Class Transaction
-- Membuat add item.
+- Dapat melakukan add item.
 - Dapat melakukan update nama item.
 - Dapat melakukan update jumlah item.
 - Dapat melakukan update harga item.
@@ -26,7 +26,7 @@ Python
 
 ## Flowchart  
  <p>
-<img align="center" src="https://drive.google.com/uc?export=view&id=1riHeht2ysGpinXsLrpwUgVhjVLUWPSN_" alt="Flowchart" width="300" />
+<img align="center" src="https://drive.google.com/uc?export=view&id=1riHeht2ysGpinXsLrpwUgVhjVLUWPSN_" alt="Flowchart" width="500" />
 </p>
 
 ## Fungsi 

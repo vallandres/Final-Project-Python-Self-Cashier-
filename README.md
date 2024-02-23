@@ -104,7 +104,7 @@ Setelah Customer selesai berbelanja, akan menghitung total belanja yang harus di
 
 ## Kesimpulan
 
-Program ini sudah berjalan dengan baik, tetapi diperlukan pengembangan berkelanjutan untuk peningkatan program agar meberikan kesan baik kepada pengguna.
+Program ini sudah berjalan dengan baik, tetapi diperlukan pengembangan berkelanjutan untuk peningkatan program agar memberikan kesan baik kepada pengguna.
 
 
 
